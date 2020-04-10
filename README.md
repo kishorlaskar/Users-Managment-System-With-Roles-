@@ -1,3 +1,19 @@
+<h3><b>## About User Managment System with Roles</b></h3>
+ <p>Project Name :User Login and Managment System with Roles in Laravel 7</p>
+<ul>
+<li> 1.How to Set Admin Controllers and UI links.</li>
+<li>2.Advance Laravel Routing</li>
+<li>3.Create Relationship Between User and Roles.</li>
+<li>4.How to seed data in the Database using DatabaseSedeer.</li>
+<li>5.How to Assign Roles to Users.</li>
+<li>6.What is Gate?</li>
+<li>6.1.Using Gates to control user acess.</li>
+<li>6.2.Hiding Ui elements using gates.</li>
+<li>7.Add a role in the time of registation.</li>
+<li>8.Basic Feature Test</li>
+<li>9.Add Foriegn Key Constrants.</li>
+<li>10.Create Notification System.</li>
+    <li>11.Redirect Users Based on Roles.</li>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -6,22 +22,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-## About User Managment System with Roles
- Project Name :User Login and Managment System with Roles in Laravel 7
 
-1.How to Set Admin Controllers and UI links.
-2.Advance Laravel Routing
-3.Create Relationship Between User and Roles.
-4.How to seed data in the Database using DatabaseSedeer.
-5.How to Assign Roles to Users.
-6.What is Gate?
-6.1.Using Gates to control user acess.
-6.2.Hiding Ui elements using gates.
-7.Add a role in the time of registation.
-8.Basic Feature Test
-9.Add Foriegn Key Constrants.
-10.Create Notification System.
-11.Redirect Users Based on Roles.
 
 ## About Laravel
 
